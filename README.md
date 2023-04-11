@@ -11,3 +11,5 @@ Start tmux providing the config file;
 ```
 tmux -f ~/.config/tmux/tmux.conf
 ```
+
+![image](https://sneddonlewis-public-images.s3.eu-west-2.amazonaws.com/tmux-example.png)
