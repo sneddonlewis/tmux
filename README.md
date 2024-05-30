@@ -7,6 +7,10 @@ I store mine in a directory so that I can keep it under source control;
 ~/.config/tmux/tmux.conf
 ```
 
+Install tpm  
+
+install plugins ( prefix I )
+
 Start tmux providing the config file;
 ```
 tmux -f ~/.config/tmux/tmux.conf
